@@ -6,9 +6,7 @@ This is the React comment box example from [the React tutorial](http://facebook.
 
 ## To use
 
-There are several simple server implementations included. They all serve static files from `public/` and handle requests to `comments.json` to fetch or add data. Start a server with one of the following:
-
-        They're several simple server implementation. All files are served using static files from 'public/', and handle request to 'comments.json; to fetch or add data. Begin the server with one of the following.
+They're several simple server implementation. All files use static files from 'public/', and handle request to 'comments.json; to fetch or add data. Begin the server with one of the following.
 
 ### Node
 
